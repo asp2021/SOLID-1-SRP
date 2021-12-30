@@ -1,0 +1,16 @@
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\SRP.exe
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\SRP.deps.json
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\SRP.runtimeconfig.json
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\SRP.runtimeconfig.dev.json
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\SRP.dll
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\ref\SRP.dll
+C:\UDEMY\SRP\SRP\bin\Debug\net5.0\SRP.pdb
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.csproj.AssemblyReference.cache
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.AssemblyInfoInputs.cache
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.AssemblyInfo.cs
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.csproj.CoreCompileInputs.cache
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.dll
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\ref\SRP.dll
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.pdb
+C:\UDEMY\SRP\SRP\obj\Debug\net5.0\SRP.genruntimeconfig.cache
